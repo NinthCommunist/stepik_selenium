@@ -1,2 +1,2 @@
 # stepik_selenium
-autotests
+my autotests from this course https://stepik.org/course/575/syllabus
